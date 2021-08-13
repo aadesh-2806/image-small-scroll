@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    position: relative;
+    background: url(pexels-quintin-gellar-313782.jpg) no-repeat center bottom/cover;
+    background-attachment: fixed;
+    width: 100%;
+    min-height: 100vh;
+}
+section{
+    text-align: justify;
+    padding: 10px 150px;
+    color: #111;
+}
+h2{
+    text-transform: uppercase;
+    font-size: 34px;
+}
+p{
+    font-size: 1.2em;
+}
